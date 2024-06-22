@@ -2,7 +2,6 @@
   "name": "pet_team02",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kirill-Filonchuk.github.io/pet_team02/",
   "dependencies": {
     "@react-spring/web": "^9.7.1",
     "@reduxjs/toolkit": "^1.9.3",
